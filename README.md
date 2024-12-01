@@ -28,10 +28,7 @@ Copy code
 
 - Python 3.x
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-You can copy and paste the above text into your README.md file. This provides a brief overview of the project, its features, usage instructions, dependencies, and license information. You can also modify the text as needed to better suit your project.
 
 # Tacotron2-Wav2Vec-Transcription
 
